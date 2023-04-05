@@ -1,0 +1,36 @@
+# Michael's User page
+![Picture](pfp.jpg)
+
+Hello everyone! My name is Michael and I am a second year Computer Science Major
+at **UC San Diego**.
+
+> I am an avid baseball fan.
+
+I find this *very* amusing:
+
+```
+cout << "did this segment run?" << endl;
+```
+
+Here is the [Wikipedia page](https://en.wikipedia.org/wiki/C%2B%2B) on my favorite language.
+
+## A Section Link to the Top
+Click [Here](#Michael's-User-page).
+
+A [link](pfp.jpg) to my profile pic.
+
+
+Unordered list of food I like:
+- Sushi
+- Pizza
+- Tacos
+
+An ordered list of my favorite UCSD colleges
+1. ERC
+2. Everyone else
+
+A task list for my SP23 Week 1:
+- [ ] Walk around
+- [ ] Do my ZyBook reading for CSE 140
+
+
