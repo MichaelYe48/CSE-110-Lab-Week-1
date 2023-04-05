@@ -6,7 +6,7 @@ at **UC San Diego**.
 
 > I am an avid baseball fan.
 
-A [Section Link](##Todo) to my todo list.
+A [Section Link](## Todo) to my todo list.
 
 I find this *very* amusing:
 
