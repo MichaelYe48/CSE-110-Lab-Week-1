@@ -32,3 +32,6 @@ An ordered list of my favorite UCSD colleges
 A task list for my SP23 Week 1:
 - [x] Walk around
 - [ ] Do my ZyBook reading for CSE 140
+
+
+***Thank you for visiting***
